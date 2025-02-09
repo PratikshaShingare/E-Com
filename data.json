@@ -1,0 +1,163 @@
+[
+    {
+        "id": 1,
+        "name": "Galaxy S24 Ultra",
+        "price": 699,
+        "category": "Electronics",
+        "rating": 4,
+        "image": "p1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "iPhone",
+        "price": 1200,
+        "category": "Electronics",
+        "rating": 5,
+        "image": "p2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Vivo v40 series",
+        "price": 150,
+        "category": "Electronics",
+        "rating": 4,
+        "image": "p3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Redmi",
+        "price": 199,
+        "category": "Electronics",
+        "rating": 4,
+        "image": "p4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Phone5",
+        "price": 550,
+        "category": "Electronics",
+        "rating": 5,
+        "image": "p6.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Top",
+        "price": 25,
+        "category": "Clothing",
+        "rating": 5,
+        "image": "t1.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Crop T-shirt",
+        "price": 50,
+        "category": "Clothing",
+        "rating": 4,
+        "image": "t2.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Polo T-shirt",
+        "price": 90,
+        "category": "Clothing",
+        "rating": 5,
+        "image": "t3.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Tank Top",
+        "price": 60,
+        "category": "Clothing",
+        "rating": 4,
+        "image": "t4.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Top",
+        "price": 80,
+        "category": "Clothing",
+        "rating": 5,
+        "image": "t5.jpg"
+    },
+    {
+        "id": 11,
+        "name": "A Year Of Positive Thinking",
+        "price": 15,
+        "category": "Books",
+        "rating": 4,
+        "image": "bk1.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Be Awesome Be Cool",
+        "price": 20,
+        "category": "Books",
+        "rating": 5,
+        "image": "bk2.jpg"
+    },
+    {
+        "id": 13,
+        "name": "If ypu Can't Find A Way,Make One",
+        "price": 10,
+        "category": "Books",
+        "rating": 3,
+        "image": "bk3.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Sensation",
+        "price": 5,
+        "category": "Books",
+        "rating": 4,
+        "image": "bk4.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Visions",
+        "price": 50,
+        "category": "Books",
+        "rating": 5,
+        "image": "bk5.jpg"
+    },
+    {
+        "id": 16,
+        "name": "LAKUKAN SAMAU MU",
+        "price": 15,
+        "category": "Books",
+        "rating": 4,
+        "image": "bk6.jpg"
+    },
+    {
+        "id": 17,
+        "name": "UNO",
+        "price": 15,
+        "category": "Books",
+        "rating": 4,
+        "image": "bk7.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Double Exposure Photo Effect",
+        "price": 15,
+        "category": "Books",
+        "rating": 4,
+        "image": "bk8.jpg"
+    },
+    {
+        "id": 19,
+        "name": "LOOPER",
+        "price": 15,
+        "category": "Books",
+        "rating": 4,
+        "image": "bk9.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Twisted LOVE",
+        "price": 15,
+        "category": "Books",
+        "rating": 4,
+        "image": "bk91.jpg"
+    }
+
+]
